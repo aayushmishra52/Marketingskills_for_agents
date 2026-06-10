@@ -1,5 +1,3 @@
-# Marketing Skills for AI Agents
-
 # Marketing Skills for AI Coding Agents
 
 A curated collection of specialized marketing skills designed to extend the capabilities of AI coding agents. This framework provides structured workflows, domain-specific knowledge, and proven marketing methodologies that enable agents to perform marketing-related tasks with greater accuracy, consistency, and context awareness.
