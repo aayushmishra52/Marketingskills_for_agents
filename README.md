@@ -144,8 +144,9 @@ Install via Claude Code's built-in plugin system:
 
 ```bash
 # Add the marketplace
-/plugin marketplace add coreyhaines31/marketingskills
+/plugin marketplace aayushmishra52/marketingskills
 
 # Install all marketing skills
 /plugin install marketing-skills
 ```
+All Rights reserved to Aayush mishra.
